@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 13 15:35:21 2019
-
-@author: ATUL SHARMA
-"""
 
 def editDist(str1, str2, m, n):
     #for making the table

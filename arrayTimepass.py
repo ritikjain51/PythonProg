@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 24 17:02:09 2019
-
-@author: ATUL SHARMA
-"""
 
 a=[]
 a.append([])

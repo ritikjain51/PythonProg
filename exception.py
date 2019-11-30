@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Mar  5 16:25:59 2019
 
-@author: ATUL SHARMA
-"""
 try:
     a=chr(input("enter the number"))
 except ValueError:

@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  6 15:46:26 2019
 
-@author: ATUL SHARMA
-2
-"""
 
 x=[["0,0","0,1","0,2"],
    ["1,0","1,1","1,2"],

@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jan 31 16:16:27 2019
 
-@author: ATUL SHARMA
-"""
 
 a=int(input("enter frist number"))
 b=int(input("enter second number" ))

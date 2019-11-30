@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 17 20:58:03 2019
-
-@author: ATUL SHARMA
-"""
 
 a=int(input("enter a number to find mod"))
 b=int(input("enter a num for mod "))

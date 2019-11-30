@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb  1 23:55:39 2019
 
-@author: ATUL SHARMA
-"""
 
 num=int(input("enter a number for factorial"))
 factorial=1

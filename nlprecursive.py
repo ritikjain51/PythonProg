@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Jun 13 15:30:26 2019
 
-@author: ATUL SHARMA
-""" 
 def editDistance(str1, str2, m , n):
 	if m==0: 
 		return n 

@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  6 14:23:14 2019
-
-@author: ATUL SHARMA
-"""
 
 
 X = [[12,7,3],

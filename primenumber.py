@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 17 21:40:48 2019
 
-@author: ATUL SHARMA
-"""
 
 a=int(input("enter a number to check->"))
 if (a>1):

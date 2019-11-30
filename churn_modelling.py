@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Feb 20 16:31:20 2019
 
-@author: ATUL SHARMA
-"""
 
 """
 pandas: this library is use to import or export content from different files

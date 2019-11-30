@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Feb  2 09:32:43 2019
-
-@author: ATUL SHARMA
-"""
 
 nterms=int(input("how many terms are requried?"))
 n1=0

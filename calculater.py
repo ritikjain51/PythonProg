@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 15 16:28:59 2019
 
-@author: ATUL SHARMA
-"""
 
 #simple calculater
 # This function adds two numbers 

@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 22 15:45:39 2019
 
-@author: ATUL SHARMA
-"""
 import random
 x=[["0,0","0,1","0,2"],
    ["1,0","1,1","1,2"],
